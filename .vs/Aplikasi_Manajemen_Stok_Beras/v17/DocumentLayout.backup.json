@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\aplikasi_manajemen_stok_beras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|solutionrelative:aplikasi_manajemen_stok_beras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|c:\\users\\asus\\documents\\tugas pemrograman visual semester 6\\aplikasi_manajemen_stok_beras\\aplikasi_manajemen_stok_beras\\formdaftarstokberas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|solutionrelative:aplikasi_manajemen_stok_beras\\formdaftarstokberas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\aplikasi_manajemen_stok_beras\\forminputdataberas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|solutionrelative:aplikasi_manajemen_stok_beras\\forminputdataberas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\aplikasi_manajemen_stok_beras\\formdaftarstokberas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E10215-A7E3-4BE4-B177-CD17D364B795}|Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras.csproj|solutionrelative:aplikasi_manajemen_stok_beras\\formdaftarstokberas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDaftarStokBeras2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs",
+              "RelativeDocumentMoniker": "Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs [Design]",
+              "RelativeToolTip": "Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:24:59.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDaftarStokBeras2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs",
+              "RelativeDocumentMoniker": "Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs",
+              "RelativeToolTip": "Aplikasi_Manajemen_Stok_Beras\\FormDaftarStokBeras2.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T00:33:20.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInputDataBeras.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\FormInputDataBeras.cs",
+              "RelativeDocumentMoniker": "Aplikasi_Manajemen_Stok_Beras\\FormInputDataBeras.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\FormInputDataBeras.cs",
+              "RelativeToolTip": "Aplikasi_Manajemen_Stok_Beras\\FormInputDataBeras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:01:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplikasi_Manajemen_Stok_Beras\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Tugas Pemrograman Visual Semester 6\\Aplikasi_Manajemen_Stok_Beras\\Aplikasi_Manajemen_Stok_Beras\\Form1.cs",
+              "RelativeToolTip": "Aplikasi_Manajemen_Stok_Beras\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:55:48.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
