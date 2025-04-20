@@ -14,3 +14,4 @@ ComboBox untuk Memilih Jenis Beras dan Satuan Pengguna bisa memilih jenis beras 
 Penyimpanan Data ke MySQL Semua data tersimpan langsung di database MySQL, sehingga lebih aman dan tidak mudah hilang.
 
 Penyegaran Data Otomatis Setelah menambahkan stok baru, tabel akan langsung diperbarui agar pengguna bisa melihat perubahan secara langsung.
+![image alt](https://github.com/Alfinaa29/aplikasi_manajemen_stok_beras/blob/main/Screenshot%20(899).png?raw=true)
