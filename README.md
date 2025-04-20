@@ -16,3 +16,4 @@ Penyimpanan Data ke MySQL Semua data tersimpan langsung di database MySQL, sehin
 Penyegaran Data Otomatis Setelah menambahkan stok baru, tabel akan langsung diperbarui agar pengguna bisa melihat perubahan secara langsung.
 ![image alt](https://github.com/Alfinaa29/aplikasi_manajemen_stok_beras/blob/main/Screenshot%20(899).png?raw=true)
 ![image alt](https://github.com/Alfinaa29/aplikasi_manajemen_stok_beras/blob/main/Screenshot%20(898).png?raw=true)
+![image alt](https://github.com/Alfinaa29/aplikasi_manajemen_stok_beras/blob/main/Screenshot%20(897).png?raw=true)
